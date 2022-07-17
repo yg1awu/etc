@@ -1,4 +1,5 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
+DMRID,CALLSIGN,NAMA,DAERAH,WILAYAH,LOKAL
 280001,JZ10EGG,GILANG GUMILAR,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Tamansari
 280002,JZ10LLB,HADIYANTO,RAPI Daerah 10 Jawa Barat,Kota Bekasi,Bekasi Barat
 280003,JZ13AIV,SARJONO,RAPI Daerah 13 Jawa Timur,Kota Surabaya,Krembangan
@@ -59,7 +60,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280058,JZ10EKS,ASEP SAMSUL ISKANDAR,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Purbaratu
 280059,JZ10EDV,ANDI RAHMAN,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Kawalu
 280060,JZ29BOR,RAMLAN ADRIAN,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Selatan
-280061,JZ29BSY,TIMOTIUS SUBAY,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280061,JZ04MGW,GUSWERI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
 280062,JZ10EEB,JAPAR SIDIK,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Purbaratu
 280063,JZ10EML,AGUS NUGRAHA,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Indihiang
 280064,JZ29VE,VICTOR EDYSON,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
@@ -111,3 +112,68 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 280110,JZ04MSD,SUWARDI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
 280111,JZ04AIM,REZA FAHLEVI,RAPI Daerah 04 Riau,Kota Pekanbaru,Rumbai Pesisir
 280112,JZ04MKZ,WEMPI  KAMRI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280113,JZ13BIX,MOHAMMAD HARI YAMIN,RAPI Daerah 13 Jawa Timur,Bangkalan,Bangkalan
+280114,JZ04AGD,MUHAMMAD JAMAL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280115,JZ04AHN,ABU UBAIDAH,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280116,JZ04ANS,MUHAMMAD ROIS CANDRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280117,JZ04BCA,DOA SULAIMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280118,JZ04BCC,ADI FIRDAUS,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280119,JZ04BCD,SYAFRIZAL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280120,JZ04BDA,T.EFRI SYAHPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280121,JZ04BDR,FIKTOR SIRAIT,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280122,JZ04BEC,M ANDRE SAPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280123,JZ04BFB,KHURFIAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280124,JZ04MAC,KARDINAL ERANDA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280125,JZ04MAE,SUTRISNO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280126,JZ04MAF,EDI SURYANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280127,JZ04MAH,AMINUDDIN HASIBUAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280128,JZ04MAJ,TRI ROMAWI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280129,JZ04MAL,ZAIMAN Z,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280130,JZ04MAO,ARSYAD,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280131,JZ04MAP,MUHTAR SANUSI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280132,JZ04MAQ,BOEDI SETYONO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280133,JZ04MAR,AFRIZAL RIFIANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280134,JZ04MAS,IZAN HENDRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280135,JZ04MAU,DEFRIADI, SE,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280136,JZ04MAW,AWALUDDIN MALIK,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280137,JZ04MBA,AGUS SETIYA BUDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280138,JZ04MBL,JULIASMANSYA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280139,JZ04MBM,ZULFAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280140,JZ04MBY,BUSTAMIR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280141,JZ04MCA,CHAIRUL AMRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280142,JZ04MCB,CUNCUN WIBOWO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280143,JZ04MCD,WAHID KURNIAWAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280144,JZ04MCT,JAMALUDDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280145,JZ04MCW,WANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280146,JZ04MDK,SARBAINI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280147,JZ04MDT,BOYRI WELJA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280148,JZ04MEC,BACHRON,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280149,JZ04MES,EDY SURYANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280150,JZ04MEU,JUNIARTI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280151,JZ04MZA,HENDRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280152,JZ04MGX,LIKMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280153,JZ04MHP,ERFANDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280154,JZ04MHS,HERI SUSENO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280155,JZ04MIW,EFFENDI SEMBIRING,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280156,JZ04MJB,ANTON,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280157,JZ04MJH,JASMI HENDRIK,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280158,JZ04MKK,KAMARUDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280159,JZ04MLE,INDRA ISKANDAR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280160,JZ04MNH,NUNIK HERMAWATI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280161,JZ04MNS,IKHWANUL ARIF RAMLI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280162,JZ04MON,SUPRAMONO HADI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280163,JZ04MPO,ALILUDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280164,JZ04MQB,H. SYAFEI JAAFAR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280165,JZ04MQS,IRNA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280166,JZ04MRB,NASIB,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280167,JZ04MRG,ERMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280168,JZ04MRJ,HENDRA SAPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280169,JZ04MRN,RUSANI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280170,JZ04MRO,REDIANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280171,JZ04MRP,RUDI PRAWISKA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280172,JZ04MRV,RIVA ORDIVA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280173,JZ04MSB,SAMSUL BAHRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280174,JZ04MSR,SYAHRUL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280175,JZ04MVL,IBRAHIM,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280176,JZ04MYD,OKTAVIA YENDRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280177,JZ04MYS,YUSRI WANDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
