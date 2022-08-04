@@ -175,4 +175,14 @@
 {"fname":"IBRAHIM","name":"IBRAHIM","country":"RAPI Daerah 04 Riau","callsign":"JZ04MVL","city":"Pkl. Kerinci","surname":"","radio_id":280175,"id":280175,"remarks":"","state":"Pelalawan"},
 {"fname":"OKTAVIA","name":"OKTAVIA","country":"RAPI Daerah 04 Riau","callsign":"JZ04MYD","city":"Pkl. Kerinci","surname":"YENDRI","radio_id":280176,"id":280176,"remarks":"","state":"Pelalawan"},
 {"fname":"YUSRI","name":"YUSRI","country":"RAPI Daerah 04 Riau","callsign":"JZ04MYS","city":"Pkl. Kerinci","surname":"WANDI","radio_id":280177,"id":280177,"remarks":"","state":"Pelalawan"},
-{"fname":"SUMARDI","name":"SUMARDI","country":"RAPI Daerah 04 Riau","callsign":"JZ04AIO","city":"Dumai Selatan","surname":"","radio_id":280178,"id":280178,"remarks":"","state":"Dumai"}]}
+{"fname":"SUMARDI","name":"SUMARDI","country":"RAPI Daerah 04 Riau","callsign":"JZ04AIO","city":"Dumai Selatan","surname":"","radio_id":280178,"id":280178,"remarks":"","state":"Dumai"},
+{"fname":"SUMARDI","name":"SUMARDI","country":"RAPI Daerah 04 Riau","callsign":"JZ04AIO","city":"Dumai Selatan","surname":"","radio_id":280178,"id":280178,"remarks":"","state":"Dumai"},
+{"fname":"RAHMAD","name":"RAHMAD","country":"RAPI Daerah 04 Riau","callsign":"JZ04FZZ","city":"Dumai Kota","surname":"ROYAN","radio_id":280179,"id":280179,"remarks":"","state":"Dumai"},
+{"fname":"ANDHIKA ","name":"ANDHIKA ","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IOW","city":"Beringin","surname":"YUDHA PUTRA","radio_id":280180,"id":280180,"remarks":"","state":"Deli Serdang"},
+{"fname":"ABDUL ","name":"ABDUL ","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBM","city":"Lubuk Pakam","surname":"AFFANDI","radio_id":280181,"id":280181,"remarks":"","state":"Deli Serdang"},
+{"fname":"JUMIRIN","name":"JUMIRIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBP","city":"Lubuk Pakam","surname":"","radio_id":280182,"id":280182,"remarks":"","state":"Deli Serdang"},
+{"fname":"HARIS","name":"HARIS","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBW","city":"Lubuk Pakam","surname":"NASUTION","radio_id":280183,"id":280183,"remarks":"","state":"Deli Serdang"},
+{"fname":"SUPARLAN","name":"SUPARLAN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBY","city":"Lubuk Pakam","surname":"","radio_id":280184,"id":280184,"remarks":"","state":"Deli Serdang"},
+{"fname":"SARIFUDDIN","name":"SARIFUDDIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IDP","city":"Lubuk Pakam","surname":"","radio_id":280185,"id":280185,"remarks":"","state":"Deli Serdang"},
+{"fname":"NGATEMIN","name":"NGATEMIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IDY","city":"Beringin","surname":"","radio_id":280186,"id":280186,"remarks":"","state":"Deli Serdang"},
+]}
