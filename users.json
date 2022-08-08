@@ -1,4 +1,6 @@
 {"users":[{"fname":"GILANG","name":"GILANG","country":"RAPI Daerah 10 Jawa Barat","callsign":"JZ10EGG","city":"Tamansari","surname":"GUMILAR","radio_id":280001,"id":280001,"remarks":"","state":"Kota Tasikmalaya"},
+{"fname":"KRAP-SRV","name":"KRAP Server","country":"Indonesia","callsign":"JZS00","city":"JAKBAR","surname":"IP SERVER","radio_id":2000,"id":2000,"remarks":"Server Gateway","state":"DKI JAKARTA"},
+{"fname":"JDN-SRV","name":"JDN Server","country":"Indonesia","callsign":"JZS00","city":"JAKBAR","surname":"IP SERVER","radio_id":2001,"id":2001,"remarks":"Server Gateway","state":"DKI JAKARTA"},
 {"fname":"HADIYANTO","name":"HADIYANTO","country":"RAPI Daerah 10 Jawa Barat","callsign":"JZ10LLB","city":"Bekasi Barat","surname":"","radio_id":280002,"id":280002,"remarks":"","state":"Kota Bekasi"},
 {"fname":"SARJONO","name":"SARJONO","country":"RAPI Daerah 13 Jawa Timur","callsign":"JZ13AIV","city":"Krembangan","surname":"","radio_id":280003,"id":280003,"remarks":"","state":"Kota Surabaya"},
 {"fname":"SUHARTO","name":"SUHARTO","country":"RAPI Daerah 13 Jawa Timur","callsign":"JZ13NBM","city":"Tanjung Anom","surname":"","radio_id":280004,"id":280004,"remarks":"","state":"Nganjuk"},
