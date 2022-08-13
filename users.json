@@ -186,5 +186,16 @@
 {"fname":"HARIS","name":"HARIS","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBW","city":"Lubuk Pakam","surname":"NASUTION","radio_id":280183,"id":280183,"remarks":"","state":"Deli Serdang"},
 {"fname":"SUPARLAN","name":"SUPARLAN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IBY","city":"Lubuk Pakam","surname":"","radio_id":280184,"id":280184,"remarks":"","state":"Deli Serdang"},
 {"fname":"SARIFUDDIN","name":"SARIFUDDIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IDP","city":"Lubuk Pakam","surname":"","radio_id":280185,"id":280185,"remarks":"","state":"Deli Serdang"},
-{"fname":"NGATEMIN","name":"NGATEMIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IDY","city":"Beringin","surname":"","radio_id":280186,"id":280186,"remarks":"","state":"Deli Serdang"}
+{"fname":"NGATEMIN","name":"NGATEMIN","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02IDY","city":"Beringin","surname":"","radio_id":280186,"id":280186,"remarks":"","state":"Deli Serdang"},
+{"fname":"ANTHONI CAHYO","name":"ANTHONI CAHYO","country":"RAPI Daerah 12 Daerah Istimewa Yogyakarta","callsign":"JZ12ACN","city":"","surname":"NOORSAKTI","radio_id":280187,"id":280187,"remarks":"","state":"Bantul"},
+{"fname":"JHONAL","name":"JHONAL","country":"RAPI Daerah 29 Papua Barat","callsign":"JZ29BCC","city":"","surname":"THIO","radio_id":280188,"id":280188,"remarks":"","state":"Manokwari"},
+{"fname":"EKA","name":"EKA","country":"RAPI Daerah 10 Jawa Barat","callsign":"JZ10IBM","city":"","surname":"WIJAYA","radio_id":280189,"id":280189,"remarks":"","state":"Kota Cirebon"},
+{"fname":"AKHMAD","name":"AKHMAD","country":"RAPI Daerah 10 Jawa Barat","callsign":"JZ10IAH","city":"","surname":"MULIAWAN","radio_id":280190,"id":280190,"remarks":"","state":"Kota Cirebon"},
+{"fname":"YUSTINUS","name":"YUSTINUS","country":"RAPI Daerah 02 Sumatera Utara","callsign":"JZ02HFP","city":"","surname":"WARUWU","radio_id":280191,"id":280191,"remarks":"","state":"Tapanuli Tengah"},
+{"fname":"Raden Midjaja Hemi","name":"Raden Midjaja Hemi","country":"Pelalawan","callsign":"YC5NCB","city":"","surname":"RIAU","radio_id":5100258,"id":5100258,"remarks":"","state":"Pangkalan Kerinci"},
+{"fname":"Eko Budhi","name":"Eko Budhi","country":"DKI Jakarta","callsign":"YD0ATA","city":"","surname":"Santoso","radio_id":5100667,"id":5100667,"remarks":"","state":"Jakarta Timur"},
+{"fname":"RIO","name":"RIO","country":"RIAU","callsign":"YD5NOS","city":"Dumai Barat","surname":"ARWANDITA","radio_id":560001,"id":560001,"remarks":"","state":"Kota Dumai"},
+{"fname":"Sutan","name":"Sutan","country":"Kalimantan Timur","callsign":" YD5NPC","city":"","surname":"P. Lubis","radio_id":5100466,"id":5100466,"remarks":"","state":"Kota Balikpapan"},
+{"fname":"Ali Akbar","name":"Ali Akbar","country":"Sumatera Utara","callsign":"YD6HOY","city":"Tanjung Pura","surname":"","radio_id":5100144,"id":5100144,"remarks":"","state":"Langkat"},
+{"fname":"Himanto","name":"Himanto","country":"RIAU","callsign":"YD5NMN","city":"Kuantan Tengah","surname":"","radio_id":5100434,"id":5100434,"remarks":"","state":"Kuantan Singingi"}
 ]}
