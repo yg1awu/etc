@@ -197,5 +197,16 @@
 {"fname":"RIO","name":"RIO","country":"RIAU","callsign":"YD5NOS","city":"Dumai Barat","surname":"ARWANDITA","radio_id":560001,"id":560001,"remarks":"","state":"Kota Dumai"},
 {"fname":"Sutan","name":"Sutan","country":"Kalimantan Timur","callsign":" YD5NPC","city":"","surname":"P. Lubis","radio_id":5100466,"id":5100466,"remarks":"","state":"Kota Balikpapan"},
 {"fname":"Ali Akbar","name":"Ali Akbar","country":"Sumatera Utara","callsign":"YD6HOY","city":"Tanjung Pura","surname":"","radio_id":5100144,"id":5100144,"remarks":"","state":"Langkat"},
-{"fname":"Himanto","name":"Himanto","country":"RIAU","callsign":"YD5NMN","city":"Kuantan Tengah","surname":"","radio_id":5100434,"id":5100434,"remarks":"","state":"Kuantan Singingi"}
+{"fname":"Himanto","name":"Himanto","country":"RIAU","callsign":"YD5NMN","city":"Kuantan Tengah","surname":"","radio_id":5100434,"id":5100434,"remarks":"","state":"Kuantan Singingi"},
+{"fname":"JZ05ENL","name":"JZ05ENL","country":"RAPI Daerah 05 Jambi","callsign":"280192","city":"Sungai Bahar","surname":"ZAINAL ABIDIN","radio_id":,"id":,"remarks":"","state":"Muaro Jambi"},
+{"fname":"JZ13AHI","name":"JZ13AHI","country":"RAPI Daerah 13 Jawa Timur","callsign":"280193","city":"Wiyung","surname":"DONNY NUGROHO DWI PRASETYA","radio_id":,"id":,"remarks":"","state":"Kota Surabaya"},
+{"fname":"JZ10HPC","name":"JZ10HPC","country":"RAPI Daerah 10 Jawa Barat","callsign":"280194","city":"Parung","surname":"HENDRIK SAPUTRA","radio_id":,"id":,"remarks":"","state":"Kota Bogor"},
+{"fname":"JZ27WTC","name":"JZ27WTC","country":"RAPI Daerah 29 Papua Barat","callsign":"280195","city":"Distrik Muara Tami","surname":"ZAENURI","radio_id":,"id":,"remarks":"","state":"Kota Jayapura"},
+{"fname":"JZ05EGN","name":"JZ05EGN","country":"RAPI Daerah 05 Jambi","callsign":"280196","city":"Sungai Bahar","surname":"GUNANTO","radio_id":,"id":,"remarks":"","state":"Muaro Jambi"},
+{"fname":"JZ10BYI","name":"JZ10BYI","country":"RAPI Daerah 10 Jawa Barat","callsign":"280197","city":"Coblong","surname":"YUDI IRAWAN","radio_id":,"id":,"remarks":"","state":"Kota Bandung"},
+{"fname":"JZ10BTC","name":"JZ10BTC","country":"RAPI Daerah 10 Jawa Barat","callsign":"280198","city":"Sukajadi","surname":"DR. RADDY IRMAWAN, SP. A","radio_id":,"id":,"remarks":"","state":"Kota Bandung"},
+{"fname":"JZ13XSQ","name":"JZ13XSQ","country":"RAPI Daerah 13 Jawa Timur","callsign":"280199","city":"Sukodono","surname":"MACHMUD","radio_id":,"id":,"remarks":"","state":"Sidoarjo"},
+{"fname":"JZ27AMT","name":"JZ27AMT","country":"RAPI Daerah 29 Papua Barat","callsign":"280200","city":"Distrik Abepura","surname":"SUDIARSO","radio_id":,"id":,"remarks":"","state":"Kota Jayapura"},
+{"fname":"JZ10BLE","name":"JZ10BLE","country":"RAPI Daerah 10 Jawa Barat","callsign":"280201","city":"Coblong","surname":"KOMARA ABDULKADIR","radio_id":,"id":,"remarks":"","state":"Kota Bandung"},
+{"fname":"JZ31BAA","name":"JZ31BAA","country":"RAPI Daerah 31 Kepulauan Bangka Belitung","callsign":"280202","city":"Bukit Intan","surname":"HOLIL AZMI","radio_id":,"id":,"remarks":"","state":"Kota Pangkal pinang"}
 ]}
